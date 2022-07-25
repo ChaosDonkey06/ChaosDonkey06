@@ -1,6 +1,8 @@
 ### Hi, I'm Jaime ⚡
 
-I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City. If someone ask me what is my training, depending on the day, I would respond that it is on Biomedical Engineering, althought I spend most of my time writing code for computer simulations - and on a good day I would said I'm a modeler. I enjoy using various tools such as paper-pen mathematical modeling and computer simulations to write cool storeis with data (a.k.a papers). Since 2021 to nowadays I joined the data-dry/computational lab of Jeff Shaman and I'm are working on understanding the spread of infectious microbial organisms that transmit in hospitals using very detailed patient movement data. Since I moved here I've been very interested in the biological mechanism that rule the generation of the resistant phenotype in this organims, from the ecological interaction across strains and species within the host to the molecular level of resistance. 
+I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City. If someone ask me what is my training, depending on the day, I would respond that it is on Biomedical Engineering, althought I spend most of my time writing code for computer simulations - and on a good day I would said I'm a modeler.
+
+I enjoy using various tools such as paper-pen mathematical modeling and computer simulations to write cool stories with data (a.k.a papers).
 
 <!--
 I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City.
