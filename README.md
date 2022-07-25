@@ -1,8 +1,8 @@
 ### Hi, I'm Jaime ⚡
 
-I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City. If someone ask me what is my training, depending on the day, I would respond that it is on Biomedical Engineering, althought I spend most of my time writing code for computer simulations - and on a good day I would said I'm a modeler.
+I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City. If someone ask me what is my training, depending on the day, I would respond that it is on Biomedical Engineering, althought I spend most of my time writing code for computer simulations and making figures. On a good day I would said I'm a modeller, and that my training was on non-linear dynamics and control. 
 
-I enjoy using various tools such as paper-pen mathematical modeling and computer simulations to write cool stories with data (a.k.a papers).
+I am passionate about modeling because, as scientists, we naturally tell stories about life processes. And this framework allow us to input a lot of our feelings and perception about the world in rigorous ways. I enjoy using various tools such as paper-pen mathematical modeling and computer simulations to write cool stories with data (a.k.a papers).
 
 <!--
 I'm a staff scientist at the department of Environmental Health Sciences @ Columbia University in New York City.
